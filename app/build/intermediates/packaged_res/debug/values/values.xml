@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorAlertDialogBackground">#FFFFFF</color>
+    <color name="colorAlertDialogButton">#20A0EE</color>
+    <color name="colorAlertDialogText">#333333</color>
+    <color name="colorAppPrimary">#FDFCF0</color>
+    <color name="colorAppSecondary">#E3F2FD</color>
+    <color name="colorBottomNavActive">#20A0EE</color>
+    <color name="colorBottomNavBackground">#FFFFFF</color>
+    <color name="colorBottomNavInactive">#45535D</color>
+    <color name="colorBottomNavSeparator">#E0E0E0</color>
+    <color name="colorIntroSlide1Background">#343434</color>
+    <color name="colorIntroSlide2Background">#3B6DB2</color>
+    <color name="colorIntroSlide3Background">#CC8A2D</color>
+    <color name="colorIntroSlide4Background">#1C4E3B</color>
+    <color name="colorIntroSlide5Background">#A82222</color>
+    <color name="colorIntroSlide6Background">#318D9A</color>
+    <color name="colorIntroSlideBody">#FFFFFF</color>
+    <color name="colorIntroSlideHeader">#FFFFFF</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorTextDark">#37474F</color>
+    <color name="ic_launcher_background">#16202A</color>
+    <string name="app_name">Talk</string>
+    <string name="intro_slide1_body">Talk is a personal tool that helps you keep track of your mental health</string>
+    <string name="intro_slide1_header">Welcome to Talk</string>
+    <string name="intro_slide2_body">Use the journal to write more detailed information about how you\'re feeling</string>
+    <string name="intro_slide2_header">Journal</string>
+    <string name="intro_slide3_body">Use the graph to view your mood history</string>
+    <string name="intro_slide3_header">Mood Graph</string>
+    <string name="intro_slide4_body">Get suggested articles and videos that can help you improve your mood</string>
+    <string name="intro_slide4_header">Resources</string>
+    <string name="intro_slide5_body">Track your movement and app usage to better understand your moods</string>
+    <string name="intro_slide5_header">Location and Apps</string>
+    <string name="intro_slide6_body">Please read the terms and conditions before you use the app</string>
+    <string name="intro_slide6_header">Terms and Conditions</string>
+    <string name="menu_journal">Journal</string>
+    <string name="menu_resources">Resources</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_statistics">Statistics</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorAppPrimary</item>
+        <item name="colorPrimaryDark">@color/colorAppSecondary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="alertDialogStyle">@style/Theme.MaterialComponents.Dialog.Alert</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="DarkAlertDialog" parent="Theme.MaterialComponents.Dialog.Alert">
+        <item name="colorAccent">@color/colorAlertDialogButton</item>
+        <item name="android:textColorPrimary">@color/colorAlertDialogText</item>
+        <item name="android:background">@color/colorAlertDialogBackground</item>
+    </style>
+    <style name="FloatingActionBtnTheme">
+        <item name="android:backgroundTint">@color/colorBottomNavActive</item>
+        <item name="android:tint">@android:color/white</item>
+    </style>
+    <style name="PreferenceScreen" parent="Theme.AppCompat">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+</resources>

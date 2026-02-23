@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBottomNavBackground"
+    android:padding="16dp"
+    tools:context=".NotepadEntry">
+
+    <EditText
+        android:id="@+id/entry_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:hint="Title"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColorHint="#757575"
+        android:textColor="@color/colorTextDark" />
+
+    <EditText
+        android:id="@+id/entry_body"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="top|start"
+        android:hint="Write about what you feel"
+        android:paddingTop="16dp"
+        android:textColor="@color/colorTextDark"
+        android:textColorHint="#757575"
+        android:background="@null" />
+    <Button
+        android:id="@+id/save_entry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:backgroundTint="@color/colorPrimary"/>
+</LinearLayout>

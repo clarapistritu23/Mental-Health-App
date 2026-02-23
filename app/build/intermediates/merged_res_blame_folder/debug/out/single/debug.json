@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_resources.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_resources.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_intro_slide5.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_intro_slide5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_mood_1.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_mood_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_moderate_background.jpg.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\moderate_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_angry_background.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\angry_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_scared_background.jpg.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\scared_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_layout_intro_slide3.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\layout_intro_slide3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_intro_slide1.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_intro_slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-pngs-45:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_yoga.jpg.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\yoga.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_layout_intro_slide6.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\layout_intro_slide6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_fragment_statistics.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_intro_slide4.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_intro_slide4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_sad_background.jpeg.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\sad_background.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_login_fragment.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_mood_5.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_mood_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_mood_2.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_mood_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_layout_intro_slide2.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\layout_intro_slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_layout_intro_slide5.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\layout_intro_slide5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_fragment_journal.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\fragment_journal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_layout_intro_slide4.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\layout_intro_slide4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_activity_notepad_entry.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\activity_notepad_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\color_bottom_navigation_colors.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\color\\bottom_navigation_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_fragment_resources.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\fragment_resources.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_layout_intro_slide1.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\layout_intro_slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_statistics.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_intro_slide3.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_intro_slide3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_mood_3.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_mood_3.xml"
+    },
+    {
+        "merged": "com.texastech.talk.app-merged_res-49:/layout_fragment_statistics.xml.flat",
+        "source": "com.texastech.talk.app-main-51:/layout/fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_intro_slide6.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_intro_slide6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\menu_bottom_nav_items.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\menu\\bottom_nav_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_happy_background.jpg.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\happy_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_mood_4.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_mood_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_intro_slide2.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_intro_slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_depressed_background.jpg.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\depressed_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-merged_res-49:\\drawable_ic_journal.xml.flat",
+        "source": "C:\\Users\\Clara - laptop\\.gradle\\daemon\\8.5\\com.texastech.talk.app-main-51:\\drawable\\ic_journal.xml"
+    }
+]
